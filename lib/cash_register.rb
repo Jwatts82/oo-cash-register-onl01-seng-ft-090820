@@ -20,6 +20,8 @@ class CashRegister
       @items << item
     end
   end
+  
+  def discount(item)
 
 
 end
